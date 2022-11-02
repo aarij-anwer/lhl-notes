@@ -49,6 +49,16 @@ const person = {
 Object.keys(person) // [ 'name', 'address', 'phoneNumbers', 'dislikes' ]
 ```
 
+Need to use a for-in loop to access values in object
+
+```
+for (var key in person) {
+  if (person.hasOwnProperty(key)) {
+    console.log('Key: ' + key + ' Value: ' + person[key]);
+  }
+}
+```
+
 ## Using a Key Where the Object Doesn't Exist
 
 It will return `undefined`. 
