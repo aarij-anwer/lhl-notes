@@ -24,3 +24,37 @@ function runner(f) {
 
 runner(myFn);
 ```
+
+## Anonymous Functions
+
+These are functions that don't have a name, usually used for callbacks. 
+
+```
+const lighthouses = ["Gibraltar Point", "Peggy's Point", "Cove Island", "Discovery Island", "Cape Scott", "Point Clark", "Kincardine"];
+
+function returnLenght (element) {
+  return element.length;
+}
+
+console.log(lighthouses.map(element => element.length));
+console.log(lighthouses.map((element) => { return element.length; }));
+console.log(lighthouses.map((element) => returnLenght(element)));
+
+```
+
+The output is:
+
+```
+[
+  15, 13, 11, 16,
+  10, 11, 10
+]
+[
+  15, 13, 11, 16,
+  10, 11, 10
+]
+[
+  15, 13, 11, 16,
+  10, 11, 10
+]
+```
