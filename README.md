@@ -13,4 +13,5 @@ This repo contains all of the notes taken by [Aarij](https://github.com/aarij-an
   * [`typeof` and `instanceof`](/Week_2/typeof_instanceof.md)
   * [Spread Operator](/Week_2/Spread_Operator.md)
   * [Functions](/Week_2/Functions.md)
+  * [Higher-Order Functions and Callbacks](/Week_2/Higher-Order.md)
   * [`this`](/Week_2/this.md)

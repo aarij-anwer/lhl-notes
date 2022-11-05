@@ -24,11 +24,3 @@ function runner(f) {
 
 runner(myFn);
 ```
-
-## High Order Functions and Callbacks
-
-High order functions follows one of these two rules:
-1. Accepts one or more functions as arguments
-2. Returns one or more functions as a result.
-
-Callback is a function passed into another for later execution, OR is a function passed to a high order function.
