@@ -36,9 +36,9 @@ function returnLenght (element) {
   return element.length;
 }
 
-console.log(lighthouses.map(element => element.length));
-console.log(lighthouses.map((element) => { return element.length; }));
 console.log(lighthouses.map((element) => returnLenght(element)));
+console.log(lighthouses.map((element) => { return element.length; }));
+console.log(lighthouses.map(element => element.length));
 
 ```
 

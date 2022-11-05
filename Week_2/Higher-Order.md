@@ -9,6 +9,6 @@ Higer-order functions follows one of these two rules:
 
 Callback is a function passed into another for later execution.
 
-Built-in functions such as forEach, filter, and others can be called "Higher-Order Functions".
+Built-in functions such as `forEach`, `filter`, and others can be called "Higher-Order Functions".
 
 Higher-Order functions are a major aspect of Functional Programming.
