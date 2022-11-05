@@ -27,7 +27,7 @@ runner(myFn);
 
 ## Anonymous Functions
 
-These are functions that don't have a name, usually used for callbacks. 
+A nameless function defined inline or assigned to a variable. It may or may not be used as a callback function.
 
 ```
 const lighthouses = ["Gibraltar Point", "Peggy's Point", "Cove Island", "Discovery Island", "Cape Scott", "Point Clark", "Kincardine"];
