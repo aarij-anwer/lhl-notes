@@ -58,3 +58,7 @@ The output is:
   10, 11, 10
 ]
 ```
+
+## Arrow Functions
+
+Arrow Functions do not declare their own scope. Arrow functions inherit parent scope.
