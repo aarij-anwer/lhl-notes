@@ -15,3 +15,7 @@ This repo contains all of the notes taken by [Aarij](https://github.com/aarij-an
   * [Functions](/Week_2/Functions.md)
   * [Higher-Order Functions and Callbacks](/Week_2/Higher-Order.md)
   * [`this`](/Week_2/this.md)
+  * [How to Avoid `[Object object]` using `inspect`](/Week_2/inspect.md)
+* [Week 3](/Week_3/)
+  * [Functions as Values and Objects](/Week_3/Functions-As-Values-Objects.md)
+  
