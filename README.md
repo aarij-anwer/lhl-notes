@@ -10,6 +10,7 @@ This repo contains all of the notes taken by [Aarij](https://github.com/aarij-an
 * [Week 2](/Week_2/)
   * [Primitive Data Types](/Week_2/Primitive_Data_Types.md)
   * [Objects](/Week_2/Objects.md)
+  * [Iterating Over Objects](/Week_2/Iterating-Over-Objects.md)
   * [`typeof` and `instanceof`](/Week_2/typeof_instanceof.md)
   * [Spread Operator](/Week_2/Spread_Operator.md)
   * [Functions](/Week_2/Functions.md)
