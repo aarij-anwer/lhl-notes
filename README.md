@@ -19,4 +19,5 @@ This repo contains all of the notes taken by [Aarij](https://github.com/aarij-an
   * [How to Avoid `[Object object]` using `inspect`](/Week_2/inspect.md)
 * [Week 3](/Week_3/)
   * [Functions as Values and Objects](/Week_3/Functions-As-Values-Objects.md)
-  
+* [Week 11](/Week_11/)
+  * [ERD Concepts](/Week_11/ERDs.md)
