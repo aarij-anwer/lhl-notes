@@ -2,8 +2,10 @@
 
 ## What is an ORM?
 
+<p align="center">
 ![ORM](https://res.cloudinary.com/practicaldev/image/fetch/s--pQkm60iG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rtim9ih6u0kuxuuvpvp6.png)
 <sub>[Source](https://dev.to/jhonywalkeer/orm-as-melhores-bibliotecas-para-javascript-2pc0)</sub>
+</p>
 
 Object-Relational Mapping (ORM) is a technique used to map object-oriented programming concepts to a relational database. It's typically used in languages like Java, C#, and Python, where object-oriented programming is a core concept.
 
