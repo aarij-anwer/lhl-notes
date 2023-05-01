@@ -21,3 +21,5 @@ This repo contains all of the notes taken by [Aarij](https://github.com/aarij-an
   * [Functions as Values and Objects](/Week_3/Functions-As-Values-Objects.md)
 * [Week 11](/Week_11/)
   * [ERD Concepts](/Week_11/ERDs.md)
+* [Week 25](/Week_25/)
+  * [Node.JS ORMs and Prisma](/Week_25/NodeJS-ORMs-Prisma.md)
